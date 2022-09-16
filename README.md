@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ze-paulo
-- 👀 I’m interested in web3 solutions & blockchain development
-- 🌱 I’m currently learning JS (React, Node), Solidity, HTML5, CSS3
-- 💞️ I’m looking to collaborate on web3 projects
+- 👀 I’m interested in helping to develop solutions that positively impact the world
+- 🌱 I’m currently learning Python, Solidity and Frontend stacks
 - 📫 How to reach me: linkedin.com/in/zepaulo
 
 <!---
