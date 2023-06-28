@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ze-paulo
 - 👀 I’m interested in helping to develop solutions that positively impact the world
-- 🌱 I’m currently learning Python, Solidity and Frontend stacks
+- 🌱 I’m currently learning Python, Blockchain and Frontend stacks
 - 📫 How to reach me: linkedin.com/in/zepaulo
 
 <!---
