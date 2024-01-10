@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ze-paulo
-- 👀 I’m interested in helping to develop solutions that positively impact the world
-- 🌱 I’m currently learning Python, Blockchain and Frontend stacks
+- 👋 Hi, I’m @codesbyze. Born in Jan 03rd, 2000.
+- 👀 I’m interested in helping to develop solutions that positively impact the world. Mostly interested in aging, longevity & bioengineering.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: linkedin.com/in/zepaulo
 
 <!---
